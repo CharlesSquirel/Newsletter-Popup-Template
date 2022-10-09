@@ -5,7 +5,7 @@
   }
 
 body {
-    background: url(Assets/Background.png) no-repeat fixed;
+    background: url(Background.png) no-repeat fixed;
     background-size: cover;
     font-family: 'Work Sans', sans-serif;
     color: #000;
